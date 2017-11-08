@@ -1,7 +1,4 @@
 # coding:utf-8
-# author: Tian
-
-# import time
 
 class trans_money():
     def __init__(self):

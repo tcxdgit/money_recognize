@@ -130,3 +130,5 @@ if __name__ == '__main__':
     # idx_list:数量词的起始索引,list
     result, idx_list = judge.main([('我', 'r'), ('要', 'v'), ('存', 'v'), ('15001', 'm'), ('块', 'q')], ['m'])
     print(result, idx_list)
+
+
